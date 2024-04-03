@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\II_4\bin\Debug\II_4.exe.config
+C:\Users\artem\source\repos\II_4\bin\Debug\II_4.exe
+C:\Users\artem\source\repos\II_4\bin\Debug\II_4.pdb
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.Form1.resources
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.Properties.Resources.resources
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.exe
+C:\Users\artem\source\repos\II_4\obj\Debug\II_4.pdb
